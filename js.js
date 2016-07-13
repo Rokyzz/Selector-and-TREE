@@ -35,7 +35,7 @@ function treeButton(){
 	var sum = document.getElementById("tree").value;
 	var star = document.getElementById("starTree");
 	star.innerHTML = " ";
-			if (1 >= sum || sum >= 51){
+	if (1 >= sum || sum >= 51){
 		star.innerHTML = star.innerHTML + "Wrong number. Please add number form 2 to 50";
 	}
 	else {
@@ -47,5 +47,6 @@ function treeButton(){
 			star.innerHTML = star.innerHTML + "*";
 		}
 		star.innerHTML = star.innerHTML + "<br>";
-	}}
+	}
+		}
 }
