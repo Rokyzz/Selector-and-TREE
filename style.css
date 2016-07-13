@@ -1,0 +1,29 @@
+body {
+	background: url("http://www.spyderonlines.com/images/wallpapers/wallpaper-simple/1366-768/wallpaper-simple-21.jpg");
+	background-size: cover;
+	
+}
+
+h1 {
+	color: white;
+	font-size: 30px;
+}
+
+#forma{
+	color: white;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+iframe{
+	margin-left: 30%;
+	border: solid 10px;
+	border-color: #4682B4;
+	border-radius: 15px;
+}
+#test1{
+	color: white;
+}
+#starTree{
+	color: white;
+}
